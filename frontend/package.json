@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
@@ -28,32 +27,5 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
     "vite": "^8.0.12"
-=======
-  "name": "gen-ai",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "npx nodemon server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@google/genai": "^2.8.0",
-    "bcryptjs": "^3.0.3",
-    "cookie-parser": "^1.4.7",
-    "cors": "^2.8.6",
-    "dotenv": "^17.4.2",
-    "express": "^5.2.1",
-    "jsonwebtoken": "^9.0.3",
-    "mongoose": "^9.7.0",
-    "multer": "^2.1.1",
-    "pdf-parse": "^2.4.5",
-    "puppeteer": "^25.1.0",
-    "zod": "^4.4.3",
-    "zod-to-json-schema": "^3.25.2"
->>>>>>> 3ca80e5676aa5ef087d7dbf2ed9228831fa18176
   }
 }
